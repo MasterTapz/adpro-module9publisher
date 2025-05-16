@@ -7,3 +7,7 @@ In a single run, the publisher sends five messages, each containing a UserCreate
 ### b. What does the URL “amqp\://guest\:guest\@localhost:5672” represent in both programs?
 
 The URL amqp\://guest\:guest\@localhost:5672 shows that both the publisher and the subscriber are configured to connect to the same message broker. This broker is running on the local machine, as indicated by localhost, and listens on the default AMQP port 5672. The connection uses the default credentials guest for both the username and the password. Using this configuration, both components of the system can interact with the same broker instance where the publisher sends events and the subscriber listens for and processes them, ensuring they operate within the same messaging environment.
+
+## RABBITMQ
+
+![initial_RabbitMQ](img/RabbitMQ.png)
