@@ -17,3 +17,8 @@ The URL amqp\://guest\:guest\@localhost:5672 shows that both the publisher and t
 ![initial_RabbitMQ](img/RabbitMQ_RUN.png)
 
 When the cargo run command is executed on the publisher, it sends 5 UserCreatedEventMessage events to the RabbitMQ message broker. These messages are then immediately received and processed by the subscriber, as reflected in the short spike in the message rate graph on the RabbitMQ dashboard.
+
+## RABBITMQ MONITOR
+
+![initial_RabbitMQ](img/RabbitMQ_monitor.png)
+When the publisher is executed, RabbitMQ briefly registers a spike in the "message rates" chart, which reflects the burst of messages being sent to the broker. Each time the publisher runs, these spikes appear again, showing that messages are actively being published and immediately consumed by the subscriber.
