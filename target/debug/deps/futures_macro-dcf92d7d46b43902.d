@@ -1,0 +1,9 @@
+C:\Users\brian\Desktop\Kuliah\Semester 4\Adpro\Tutorial9\publisher\target\debug\deps\futures_macro-dcf92d7d46b43902.dll: C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\lib.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\executor.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\join.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\select.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\stream_select.rs
+
+C:\Users\brian\Desktop\Kuliah\Semester 4\Adpro\Tutorial9\publisher\target\debug\deps\futures_macro-dcf92d7d46b43902.d: C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\lib.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\executor.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\join.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\select.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\stream_select.rs
+
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\executor.rs:
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\join.rs:
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\select.rs:
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-macro-0.3.31\src\stream_select.rs:

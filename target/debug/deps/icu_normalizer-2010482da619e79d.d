@@ -1,0 +1,10 @@
+C:\Users\brian\Desktop\Kuliah\Semester 4\Adpro\Tutorial9\publisher\target\debug\deps\libicu_normalizer-2010482da619e79d.rmeta: C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\lib.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\properties.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\provider.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\uts46.rs
+
+C:\Users\brian\Desktop\Kuliah\Semester 4\Adpro\Tutorial9\publisher\target\debug\deps\libicu_normalizer-2010482da619e79d.rlib: C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\lib.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\properties.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\provider.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\uts46.rs
+
+C:\Users\brian\Desktop\Kuliah\Semester 4\Adpro\Tutorial9\publisher\target\debug\deps\icu_normalizer-2010482da619e79d.d: C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\lib.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\properties.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\provider.rs C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\uts46.rs
+
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\lib.rs:
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\properties.rs:
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\provider.rs:
+C:\Users\brian\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\uts46.rs:
